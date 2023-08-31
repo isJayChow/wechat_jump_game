@@ -425,3 +425,4 @@ if __name__ == '__main__':
         adb.run('kill-server')
         print('bye')
         exit(0)
+
